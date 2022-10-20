@@ -15,3 +15,17 @@
   height: 100px;
   width: 50px;
 }  
+
+.grid-product-container{
+  display: grid;
+  grid-template-columns: 320px 320px 320px;
+  padding: 10px;
+  text-align: center;
+}
+.product{
+  text-align: center;
+  padding-bottom: 20px;
+}
+.product-img{
+  height: 350px;
+}
